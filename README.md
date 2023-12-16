@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <a href="https://github.com/WaltRod">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=batatafritanny&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batatafritanny&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WaltRod&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaltRod&layout=compact&langs_count=7&theme=synthwave"/>
    
 </div>
 <p align="center">
@@ -24,4 +24,3 @@ You can click the Preview link to take a look at your changes.
 <div align="center"> 
   <a href="https://www.instagram.com/anny____garcia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  
-</div>
